@@ -1,6 +1,3 @@
-import os
-import streamlit as st
-st.write("FILES:", os.listdir())
 import base64
 import io
 import itertools
